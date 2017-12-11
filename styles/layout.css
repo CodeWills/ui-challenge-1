@@ -1,0 +1,13 @@
+#a{
+    width: 100%;
+    height: 98px;
+    border: 1px solid black;
+}
+
+#b{
+   float: left;
+    height: 598px;
+    width: 198px;
+    border: 1px solid black;
+}
+
