@@ -13,10 +13,10 @@
     border: 1px solid black;
 }
 
-#cAndD{
+#sec{
     float: right;
     width:84.5%;
-    height:200px;
+    height:600px;
 }
 
 #c{
@@ -24,8 +24,6 @@
     width: 50%;
     height: 200px;
     float: left;
-    
-
 }
 
 #d{
@@ -33,6 +31,38 @@
     width: 49.5%;
     height: 200px;
     float: right;
+}
+#e{
+    border: 1px solid black;
+    width: 24.9%;
+    height: 250px;
+    float: left;
+    
+}
+#f{
+    border: 1px solid black;
+    width: 24.9%;
+    height: 250px;
+    float: left;
+}
+#g{
+    border: 1px solid black;
+    width: 24.9%;
+    height: 250px;
+    float: left;
+}
+#h{
+    border: 1px solid black;
+    width: 24.6%;
+    height: 250px;
+    float: left;
+}
+
+#i{
+    float: right;
+    width: 99.5%;
+    height: 145px;
+    border: 1px solid black;
 
 }
 }
