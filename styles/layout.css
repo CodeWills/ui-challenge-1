@@ -1,0 +1,131 @@
+#a{
+    width: 480px;
+    height: 75px;
+    background-color: beige;
+    
+}
+
+#b{
+    height: 200px;
+    width: 100%;
+    background-color: aliceblue;
+}
+
+/* #sec{
+    width:84.5%;
+    height:600px;
+} */
+
+#c{
+    width: 480px;
+    height: 125px;
+    background-color: rebeccapurple;
+}
+
+#d{
+    width: 480px;
+    height: 125px;
+    background-color: green;
+}
+#e{
+    width: 240px;
+    height: 250px;
+    background-color: tomato;
+    float: left;
+    
+}
+#f{
+    width: 240px;
+    height: 250px;
+    background-color: oldlace;
+    float: right;
+}
+#g{
+    width: 240px;
+    height: 250px;
+    background-color: powderblue;
+    float: left;
+}
+#h{
+    width: 240px;
+    height: 250px;
+    background-color: whitesmoke;
+    float: right;
+}
+
+#i{
+    width: 99.5%;
+    height: 145px;
+    background-color: crimson;
+    float:right;
+
+}
+@media only screen and (min-width: 600px) {  
+
+#a{
+    width: 100%;
+    height: 100px;
+    background-color:coral;
+    
+}
+
+#b{
+   float: left;
+    height: 600px;
+    width: 15%;
+    background-color: aliceblue;
+}
+
+#sec{
+    float: right;
+    width:84.5%;
+    height:600px;
+}
+
+#c{
+    width: 50%;
+    height: 200px;
+    float: left;
+    background-color: rebeccapurple;
+}
+
+#d{
+    width: 49.5%;
+    height: 200px;
+    float: right;
+    background-color: green;
+}
+#e{
+    width: 24.9%;
+    height: 250px;
+    float: left;
+    background-color: rgb(96, 97, 254);
+    
+}
+#f{
+    width: 24.9%;
+    height: 250px;
+    float: left;
+    background-color: oldlace;
+}
+#g{
+    width: 24.9%;
+    height: 250px;
+    float: left;
+    background-color: powderblue;
+}
+#h{
+    width: 24.6%;
+    height: 250px;
+    float: left;
+    background-color: rgb(215, 218, 53);
+}
+
+#i{
+    float: right;
+    width: 99.5%;
+    height: 145px;
+    background-color: crimson
+
+}
+}
