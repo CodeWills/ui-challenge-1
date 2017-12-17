@@ -1,0 +1,93 @@
+
+html {
+    width: 480px;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+  }
+  
+  header {
+    width: 480px;
+    height: 75px;
+    background-color: #6A11E0;
+    line-height: 75px;
+  }
+  
+  div {
+    width: 480px;
+    height: 150px;
+    float: left;
+    background-color: #4F2980;
+    line-height: 150px;
+  }
+  
+  #sec-cd section {
+    float: left;
+    width: 480px;
+    height: 125px;
+    background-color: #440E8C;
+    line-height: 125px;
+  }
+  
+  #sec-efgh section {
+    float: left;
+    width: 240px;
+    height: 250px;
+    background-color: #523873;
+    line-height: 250px;
+  }
+  
+  #sec-i {
+    float: left;
+    width: 480px;
+    height: 80px;
+    background-color: #15052B;
+    line-height: 80px;
+  }
+  
+  @media (min-width: 800px) {
+    html {
+      width: 960px;
+      margin: 0 auto;
+      text-align: center;
+    }
+  
+    header {
+      width: 960px;
+      height: 100px;
+      background-color: #E158A5;
+      line-height: 100px;
+    }
+  
+    div {
+      width: 200px;
+      height: 600px;
+      float: left;
+      background-color: #AF2F77;
+      line-height: 600px;
+    }
+  
+    #sec-cd section {
+      float: left;
+      width: 380px;
+      height: 200px;
+      background-color: #D91283;
+      line-height: 200px;
+    }
+  
+    #sec-efgh section {
+      float: left;
+      width: 190px;
+      height: 250px;
+      background-color: #883C67;
+      line-height: 250px;
+    }
+  
+    #sec-i {
+      float: left;
+      width: 760px;
+      height: 150px;
+      background-color: #32061F;
+      line-height: 150px;
+    }
+  }
